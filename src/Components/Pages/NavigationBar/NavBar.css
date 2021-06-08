@@ -1,0 +1,23 @@
+
+
+.brand {
+    display: inline-block;
+    margin-bottom: auto;
+    font-size: 14px;
+    font-family: cursive;
+}
+
+.links{
+    color: white;
+    display: inline-block;
+    height: 10px;
+    font-size: larger;
+    font-weight: lighter;
+
+}
+
+.toggle {
+    display: inline-block;
+    margin-right: 20px;
+}
+

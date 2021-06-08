@@ -1,0 +1,45 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 250px;
+    padding: 10px;
+    font-size: xx-large;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-inline: 0px;
+    padding-inline: 10px;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+
+.LoginForm {
+    margin-top: 100px;
+    padding: 20px;
+    font-size: x-large;
+    color: white;
+    font-weight: lighter;
+    
+}
+
+#forgotpassword {
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+    float: right;
+}
+
+#register {
+    float: right;
+    font-size: small;
+}
